@@ -124,16 +124,6 @@ The project is designed in a **modular and readable way**, making it easy to und
 
 ---
 
-## Possible Improvements
-
-- Adding voltage and current calculations
-- Time-based charge and discharge animations
-- Graph-based battery level visualization
-- Saving and loading battery states from a file
-- Battery health monitoring
-
----
-
 ## Developer Information
 
 - **Names:**
