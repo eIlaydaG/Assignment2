@@ -1,5 +1,8 @@
-# Assignment2 and Assignment3
+# Assignment2
 CENG201 Object Oriented Programming - Implementation Assignment 2 (Battery &amp; BatteryPack)
+
+# Assignment3
+
 # BatterySystemGUI
 
 BatterySystemGUI is a **battery management system simulation** developed using **C++ and the Qt framework**.  
@@ -133,7 +136,15 @@ The project is designed in a **modular and readable way**, making it easy to und
 
 ## Developer Information
 
-- **Name:** Fatih KOCAAY  
+- **Names:**
+Fatih Kocaay -21050111071
+
+Esra İlayda Günidi -22050151037
+
+Arzu Bal -23050151006
+
+Rümeysa Ayhan 23050151015
+
 - **Project Type:** C++ / Qt GUI Application  
 - **Purpose:** Learning OOP and GUI programming
 
@@ -142,13 +153,3 @@ The project is designed in a **modular and readable way**, making it easy to und
 ## License
 
 This project was developed for educational purposes.
-
-Group Members:
-
-Fatih Kocaay -21050111071
-
-Esra İlayda Günidi -22050151037
-
-Arzu Bal -23050151006
-
-Rümeysa Ayhan 23050151015
